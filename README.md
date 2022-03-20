@@ -3,7 +3,9 @@
 HTML & CSS Reworked For 
 qb-spawn 
 
-Just Plug and Play 
+Step 1 
+open your Full Resources Folder and find "qb-spawn" and Replace Everything to "Omi-spawn" 
+Dont change the Folder name
 (Dont Change The Name Wont Work)
 
 - Config Spawns
