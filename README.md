@@ -1,3 +1,5 @@
+#qbcore
+
 HTML & CSS Reworked For 
 qb-spawn 
 
