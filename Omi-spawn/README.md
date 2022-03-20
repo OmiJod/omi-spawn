@@ -1,4 +1,4 @@
-# qb-spawn
+
 Spawn Selector for QB-Core Framework :eagle:
 
 # License
